@@ -4,15 +4,6 @@
 a= print(input("Ingresa un número"))
 b = print(input("Ingresa otro número"))
 c = print(input("Ingresa otro número"))
-<<<<<<< HEAD
-
-
-if a < 10 and b > 12 and c == 15 :
-    for i in range (1,6):
-        print ("Este es el número", i)
-else: 
-    "No hay ninguna asignación"
-=======
 d = print(input("Ingresa otro número"))
 
 if a < 25 and b > 12 and c == 18 :
@@ -20,4 +11,9 @@ if a < 25 and b > 12 and c == 18 :
         print ("Este es el número", i)
 else: 
     "No se asigno ningun número"
->>>>>>> cabecera
+
+
+
+#esta es la parte del codigo que yo voy a modificar es acerca de el ingreso de cosas 
+
+a = print (input("hola puedes ingresar tu consulta?"))
