@@ -1,4 +1,3 @@
-
 a= print(input("Ingresa tu palabra 1"))
 b = a= print(input("Ingresa tu palabra 2"))
 
