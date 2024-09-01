@@ -4,6 +4,7 @@
 a= print(input("Ingresa un número"))
 b = print(input("Ingresa otro número"))
 c = print(input("Ingresa otro número"))
+<<<<<<< HEAD
 
 
 if a < 10 and b > 12 and c == 15 :
@@ -11,3 +12,12 @@ if a < 10 and b > 12 and c == 15 :
         print ("Este es el número", i)
 else: 
     "No hay ninguna asignación"
+=======
+d = print(input("Ingresa otro número"))
+
+if a < 25 and b > 12 and c == 18 :
+    for i in range (1,6):
+        print ("Este es el número", i)
+else: 
+    "No se asigno ningun número"
+>>>>>>> cabecera
